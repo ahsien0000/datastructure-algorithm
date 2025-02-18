@@ -1,4 +1,6 @@
-package org.algorithm.graph;
+package org.algorithm.bfs;
+
+import org.datastructure.graph.Graph;
 
 import java.util.*;
 

@@ -1,8 +1,8 @@
-package org.algorithm.graph;
+package org.datastructure.graph;
 
 import java.util.*;
 
-class Graph {
+public class Graph {
     public Map<Character, List<Character>> adjList = new HashMap<>();
     public Map<Character, Character> parent = new HashMap<>();
 
